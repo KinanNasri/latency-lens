@@ -1,0 +1,8 @@
+{
+    "traceEvents": [
+      { "ph": "X", "ts": 1000000, "dur": 16000, "name": "Update", "tid": 1 },
+      { "ph": "X", "ts": 1020000, "dur": 33000, "name": "Render", "tid": 1 },
+      { "ph": "X", "ts": 1055000, "dur": 120000, "name": "GC", "tid": 1 }
+    ]
+  }
+  
