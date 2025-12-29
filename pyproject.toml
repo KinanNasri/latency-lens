@@ -4,8 +4,9 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "latency-lens"
-version = "1.0.0"
+version = "1.0.1"
 description = "Latency and jitter analysis for performance-critical systems"
+readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
   "click>=8.1",
