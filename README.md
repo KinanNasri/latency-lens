@@ -1,6 +1,8 @@
 # Latency Lens
 [![PyPI](https://img.shields.io/pypi/v/latency-lens)](https://pypi.org/project/latency-lens/)
 [![Python](https://img.shields.io/pypi/pyversions/latency-lens)](https://pypi.org/project/latency-lens/)
+[![License](https://img.shields.io/pypi/l/latency-lens)](https://pypi.org/project/latency-lens/)
+
 
 **See p99 latency and jitter — not averages.**
 
