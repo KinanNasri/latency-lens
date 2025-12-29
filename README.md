@@ -3,12 +3,17 @@
 [![Python](https://img.shields.io/pypi/pyversions/latency-lens)](https://pypi.org/project/latency-lens/)
 [![License](https://img.shields.io/pypi/l/latency-lens)](https://pypi.org/project/latency-lens/)
 <p align="center">
-  <img src="https://cdn.trefle.eu/f665683090ed40c0ae20a318c6919180_image.png" width="900" alt="Latency Lens HTML Report">
+  <img src="https://cdn.trefle.eu/f665683090ed40c0ae20a318c6919180_image.png" width="520">
 </p>
 
-<p align="center">
-  <img src="https://cdn.trefle.eu/54f7faa857304f6ab9f0ca9fce7cb3d1_image.png" width="900" alt="Latency Lens CLI Output">
-</p>
+<details>
+<summary><strong>CLI output example</strong></summary>
+
+<br>
+
+<img src="https://cdn.trefle.eu/54f7faa857304f6ab9f0ca9fce7cb3d1_image.png" width="520">
+
+</details>
 
 
 **See p99 latency and jitter — not averages.**
