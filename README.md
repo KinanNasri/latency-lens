@@ -255,6 +255,9 @@ Contributions welcome! Areas for improvement:
 - [ ] Statistical tests (anomaly detection)
 - [ ] Comparison mode (before/after analysis)
 
+## Writing
+- [Why averages lie: p99 latency is what users actually feel](https://dev.to/kinannasri/why-averages-lie-p99-latency-is-what-users-actually-feel-4l4p)
+
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
